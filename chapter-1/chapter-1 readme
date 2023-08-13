@@ -1,1 +1,34 @@
 
+Plugins for react in vscode
+Better comments
+Bract pair colorization toggler
+Es7+react/redux/react-Native snippets
+Gitlens –git supercharged
+Prettier-code formatter
+Vscode icons
+
+
+What is emmet? Emmet is a toolkit for web developers that can significantly improve your HTML and css workflows. Basically, you can shop with the largest text content editor available, or shop and reuse a block of commonly used code called a snippet.
+Key Differences between Framework and Library
+A framework is a set of pre-written code that provides a structure for developing software applications. A library, on the other hand, is a collection of pre-written code that can be used to perform specific tasks.
+A CDN (content delivery network), also called a content distribution network, is a group of geographically distributed and interconnected servers. They provide cached internet content from a network location closest to a user to speed up its delivery.(A content delivery network (CDN) is a network of interconnected servers that speeds up webpage loading for data-heavy applications. CDN can stand for content delivery network or content distribution network).
+Why is React known as React?
+React is one of many libraries and it's completely frontend and specializes in things that the user interacts with when they're using a website. This could be buttons, search bars and menus. “And it's called React because it reacts.
+What is crossorigin in script tag?
+The crossorigin attribute sets the mode of the request to an HTTP CORS Request. Web pages often make requests to load resources on other servers. Here is where CORS comes in. A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+ What is difference between React and ReactDOM
+React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser. Include these two libraries before your main JavaScript file.
+What is the difference between react.development.js and react.production.js files via CDN?
+In production mode, compression and minification of Javascript and other resources happens to reduce size of the code which is not the case when it comes to development mode. Performance will be much faster in production mode when compared to development mode.
+What is async and defer?
+Async allows your script to run as soon as it's loaded, without blocking other elements on the page. Defer means your script will only execute after the page has finished loading. In most cases, async is the better option — but there are exceptions
+
+ CDN(content Delivery Network) of react  -> https://legacy.reactjs.org/docs/cdn-links.html
+(<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js">
+</script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js">
+</script>
+)
+
+
+
