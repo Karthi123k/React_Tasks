@@ -1,0 +1,25 @@
+{
+  "name": "createcoreapp",
+  "version": "1.0.0",
+  "description": "practice ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthi123k/React_Tasks.git"
+  },
+  "author": "thuribilli karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthi123k/React_Tasks/issues"
+  },
+  "homepage": "https://github.com/Karthi123k/React_Tasks#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
