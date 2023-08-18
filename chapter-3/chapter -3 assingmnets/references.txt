@@ -1,0 +1,5 @@
+https://babeljs.io/repl#
+https://legacy.reactjs.org/docs/react-without-jsx.html
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+https://babeljs.io/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type
