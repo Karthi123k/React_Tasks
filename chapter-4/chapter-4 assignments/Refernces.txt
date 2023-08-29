@@ -1,0 +1,7 @@
+https://bitbucket.org/namastedev/namaste-react-live/src/master/
+https://legacy.reactjs.org/docs/react-without-jsx.html
+https://legacy.reactjs.org/docs/faq-internals.html
+https://legacy.reactjs.org/docs/reconciliation.html
+https://github.com/acdlite/react-fiber-architecture
+https://legacy.reactjs.org/docs/react-without-es6.html
+https://robinpokorny.com/blog/index-as-a-key-is-an-anti-pattern/
