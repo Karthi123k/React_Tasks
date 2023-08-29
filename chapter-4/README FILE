@@ -1,0 +1,10 @@
+CONFIG DRIVEN UI  -> WITH PRODUCT LIST AND -->REACT.FRAMGMENT
+Think of a cool name for your app
+Build a AppLayout
+Build a Header Component with logo & Nav Items & cart
+Build a Body Component
+ -> Build RestaurantList Component
+-> Build RestaurantCard Component
+  -> use static data Initially
+  -> Make your card dynamic(pass in props)
+          -> props-passing arguments to a function -Use Destructuring & Spread Operator
