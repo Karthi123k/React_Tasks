@@ -1,0 +1,2 @@
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+https://bitbucket.org/namastedev/namaste-react-live/src/master/
